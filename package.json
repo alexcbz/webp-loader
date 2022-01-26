@@ -34,7 +34,7 @@
   "devDependencies": {
     "file-loader": "^3.0.1",
     "multi-loader": "^0.1.0",
-    "webpack": "2.x",
+    "webpack": "4.x",
     "webpack-cli": "*"
   },
   "peerDependencies": {
